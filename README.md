@@ -6,5 +6,4 @@ https://github.com/Ascaniolamp/Hyprlain
 https://github.com/cynaax/lain-i3wm
 <li>
 https://github.com/FlexUnder/Lain-linux-rice
-<li>
 </div>
