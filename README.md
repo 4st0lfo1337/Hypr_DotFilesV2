@@ -10,6 +10,16 @@
 
 </div>
 
+## Shaders source
+
+<ul>
+  <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
+  <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
+  <li>https://www.reddit.com/r/hyprland/comments/1j74137/loving_shaders/</li>
+</ul>
+
+</div>
+
 <br><br>
 
 <div>
@@ -32,12 +42,4 @@
 
 <div>
 
-## Shaders source
 
-<ul>
-  <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
-  <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
-  <li>https://www.reddit.com/r/hyprland/comments/1j74137/loving_shaders/</li>
-</ul>
-
-</div>
