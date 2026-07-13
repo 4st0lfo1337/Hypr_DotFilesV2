@@ -8,6 +8,8 @@ https://github.com/cynaax/lain-i3wm
 <li>
 https://github.com/FlexUnder/Lain-linux-rice
 </div>
+
+
 <div>
 Screen shaders:
   <img width="1913" height="1077" alt="image" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
