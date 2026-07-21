@@ -17,6 +17,7 @@
   <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
   <li>https://www.reddit.com/r/hyprland/comments/1j74137/loving_shaders/</li>
 </ul>
+To use the shaders, you need to uncomment the line "damage_tracking = 0" in debug.
 
 </div>
 
