@@ -7,6 +7,7 @@
   <li>https://github.com/cynaax/lain-i3wm</li>
   <li>https://github.com/FlexUnder/Lain-linux-rice</li>
   <li>https://github.com/The-LainOS-Project/LainOS-ricer-arch</li>
+  <li>https://github.com/HyDE-Project/HyDE</li>
 </ul>
 
 </div>
