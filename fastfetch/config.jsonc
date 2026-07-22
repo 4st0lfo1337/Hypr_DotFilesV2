@@ -63,6 +63,7 @@
         {
             "type": "disk",
             "key": "├─",
+            "format": "{3}",
             "keyColor": "green"
         },
         // {
