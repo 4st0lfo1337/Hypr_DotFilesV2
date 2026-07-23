@@ -13,7 +13,13 @@ This config is just my version of the Hyprlain by Ascaniolamp rice (https://gith
 With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
 
 If you like Lain and Linux as much as I do, check out the LainOS project (https://forgejo.lain.rocks/lainOS) and Hyprlain. 
-  
+
+## Rofi Config
+<ul>
+  <li>https://github.com/4st0lfo1337/RofiConfig</li>
+</ul>
+
+ 
 ## Based on these repositories
 <ul>
   <li>https://github.com/Ascaniolamp/Hyprlain</li>
