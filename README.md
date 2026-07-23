@@ -15,6 +15,7 @@ With a few color changes and some tweaks to the Hyprland configuration, and othe
 If you like Lain and Linux as much as I do, check out the LainOS project (https://forgejo.lain.rocks/lainOS) and Hyprlain. 
 
 ## Rofi Config
+I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 <ul>
   <li>https://github.com/4st0lfo1337/RofiConfig</li>
 </ul>
