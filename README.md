@@ -7,6 +7,11 @@
 </div>
 
 <div>
+
+<br><br>
+
+This config is just my version of the Hyprlain by Ascaniolamp rice, that I use on my daily driver PC,
+With a few color changes and some tweaks to the Hyprland configuration..
   
 ## Based on these repositories
 <ul>
