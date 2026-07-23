@@ -34,6 +34,7 @@ I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 
 
 ## Shaders source
+All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
   <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
