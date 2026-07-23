@@ -7,9 +7,8 @@
 </div>
 
 <div>
-
-## Based on these repositories
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&pause=7000&color=CE7688&center=false&vCenter=true&width=600&lines=Based+on+these+repositories:)](https://git.io/typing-svg)
 <ul>
   <li>https://github.com/Ascaniolamp/Hyprlain</li>
   <li>https://github.com/cynaax/lain-i3wm</li>
@@ -20,8 +19,9 @@
 
 </div>
 
-## Shaders source
+<br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&pause=7000&color=CE7688&center=false&vCenter=true&width=600&lines=Shaders+source:)](https://git.io/typing-svg)
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
   <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
@@ -35,7 +35,7 @@ To use the shaders, you need to uncomment the line "damage_tracking = 0" in debu
 
 <div>
 
-## Screen shaders
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&pause=7000&color=CE7688&center=false&vCenter=true&width=600&lines=Screen+shaders:)](https://git.io/typing-svg)
 
 <br>
 
