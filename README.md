@@ -25,7 +25,7 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase+(Video))](https://git.io/typing-svg)
 ---
 
 <div align="center">
