@@ -24,6 +24,20 @@ If you like Lain and Linux as much as I do, check out the [LainOS project](https
 
 <br><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase)](https://git.io/typing-svg)
+---
+
+<div align="center">
+    <a href="https://youtu.be/3uQDOzU91Qc">
+        <img
+            src="https://img.youtube.com/vi/3uQDOzU91Qc/maxresdefault.jpg"
+            width="900"
+            alt="Watch on YouTube">
+    </a>
+</div>
+
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
 ---
 
@@ -63,26 +77,8 @@ All off the shaders that im using on the rice are not mine, are just some random
 >To use the shaders, you need to uncomment
 >the line "damage_tracking = 0" in debug.
 
-
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Screen+shaders)](https://git.io/typing-svg)
----
 
-<br>
-
-<img width="800" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
-
-<br><br>
-
-<img width="800" src="https://github.com/user-attachments/assets/edfc6710-0571-4d16-b7b2-822cd9567f86" />
-
-<br><br>
-
-<img width="800" src="https://github.com/user-attachments/assets/d35b4394-c885-4190-b923-cbdbd65ddc2a" />
-
-</div>
-
-<div>
 
 
