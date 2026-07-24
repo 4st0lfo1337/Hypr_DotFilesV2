@@ -51,13 +51,28 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
 ---
 
-<ul>
-  <li>https://github.com/Ascaniolamp/Hyprlain</li>
-  <li>https://github.com/cynaax/lain-i3wm</li>
-  <li>https://github.com/FlexUnder/Lain-linux-rice</li>
-  <li>https://github.com/The-LainOS-Project/LainOS-ricer-arch</li>
-  <li>https://github.com/HyDE-Project/HyDE</li>
-</ul>
+<table>
+<tr>
+<td width="70%" valign="top">
+
+## Repos:
+
+- [Hyprlain](https://github.com/Ascaniolamp/Hyprlain)
+- [lain-i3wm](https://github.com/cynaax/lain-i3wm)
+- [Lain Linux Rice](https://github.com/FlexUnder/Lain-linux-rice)
+- [LainOS Ricer Arch](https://github.com/The-LainOS-Project/LainOS-ricer-arch)
+- [HyDE](https://github.com/HyDE-Project/HyDE)
+
+</td>
+
+<td width="30%" align="center">
+
+<img width="230" src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c" />
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
