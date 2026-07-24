@@ -14,7 +14,11 @@ With a few color changes and some tweaks to the Hyprland configuration, and othe
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/) An Arch-based, privacy-focused
 distro with a style inspired by Copland-OS! 
-
+> [!IMPORTANT]
+> I only use the Super + C and Super + R keybindings because
+> I use three monitors; you don't need to use these keys if you use a single monitor.
+> 
+> *This Hyprland setup is running in CachyOS*
 
 <br><br>
 
@@ -30,13 +34,6 @@ distro with a style inspired by Copland-OS!
     </a>
 </div>
 
----
-
-> [!IMPORTANT]
-> I only use the Super + C and Super + R keybindings because
-> I use three monitors; you don't need to use these keys if you use a single monitor.
-> 
-> *This Hyprland setup is running in CachyOS*
 
 <br><br>
 
