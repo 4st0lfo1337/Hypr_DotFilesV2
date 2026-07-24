@@ -24,7 +24,6 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase+(Video))](https://git.io/typing-svg)
 ---
 <img align="left" width="150" src="https://github.com/user-attachments/assets/0efb9d2c-a6ae-4f50-87dd-c7acbb3ed7f8" />
-
 <div align="center">
     <a href="https://youtu.be/3uQDOzU91Qc">
         <img
@@ -33,6 +32,7 @@ distro with a style inspired by Copland-OS!
             alt="Watch on YouTube">
     </a>
 </div>
+
 
 
 <br><br>
