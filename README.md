@@ -78,7 +78,17 @@ All off the shaders that im using on the rice are not mine, are just some random
 >the line "damage_tracking = 0" in debug.
 
 <br><br>
+---
 
+<div align="center">
+    <img width="500" src="https://github.com/user-attachments/assets/084dc8c6-b667-42f4-8e18-a275e8559c17" />
+
+</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&pause=1000&color=CE7688&center=true&vCenter=true&width=600&lines=See+you+in+the+wired..." />
+  </a>
+</p>
 
 
 
