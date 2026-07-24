@@ -69,7 +69,8 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source)](https://git.io/typing-svg)
 ---
 
-All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
+> [!NOTE]
+>All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
   <li>https://www.reddit.com/r/hyprland/comments/1n3i18s/hyprland_screen_shaders_ctr_effect_cracking/</li>
