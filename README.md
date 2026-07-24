@@ -22,8 +22,9 @@ If you like Lain and Linux as much as I do, check out the [LainOS project](https
 
 <br><br>
 
-## Rofi Config
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
 ---
+
 I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 <ul>
   <li>https://github.com/4st0lfo1337/RofiConfig</li>
@@ -31,8 +32,9 @@ I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 
  <br><br>
 
-## Based on these repositories
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
 ---
+
 <ul>
   <li>https://github.com/Ascaniolamp/Hyprlain</li>
   <li>https://github.com/cynaax/lain-i3wm</li>
@@ -45,8 +47,9 @@ I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 
 <br><br>
 
-## Shaders source
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source)](https://git.io/typing-svg)
 ---
+
 All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
@@ -61,9 +64,9 @@ All off the shaders that im using on the rice are not mine, are just some random
 
 <br><br>
 
-
-## Screen shaders
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Screen+shaders)](https://git.io/typing-svg)
 ---
+
 <br>
 
 <img width="800" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
