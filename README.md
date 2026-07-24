@@ -37,7 +37,7 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config:)](https://git.io/typing-svg)
 ---
 
 > [!NOTE]
@@ -48,7 +48,7 @@ distro with a style inspired by Copland-OS!
 
  <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories:)](https://git.io/typing-svg)
 ---
 
 <img align="right" width="230" src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c"/>
@@ -64,7 +64,7 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source:)](https://git.io/typing-svg)
 ---
 
 All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
