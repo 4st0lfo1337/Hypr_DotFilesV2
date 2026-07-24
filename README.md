@@ -51,7 +51,7 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
 ---
 
-<img align="right" width="230" src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c"/>
+<img align="right" width="200" src="https://github.com/user-attachments/assets/8775c18c-5e3f-4635-91b8-9f62f25d789c"/>
 
 - [Hyprlain](https://github.com/Ascaniolamp/Hyprlain)
 - [lain-i3wm](https://github.com/cynaax/lain-i3wm)
