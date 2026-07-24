@@ -29,13 +29,24 @@ vec2 curvedSurface(vec2 uv, float r)
 // Function to calculate CRT curve.
 vec2 crtCurve(vec2 uv, float r, bool content, bool shine)
 {
-    r = CURVE * r;
-   uv = (uv / screen_size - 0.5) / vec2(screen_size.y / screen_size.x, 1.0) * 2.0;
+    vec2 res = screen_size;
+
+    r *= CURVE;
+
+    uv = (uv / res - 0.5);
+
+    uv.x *= res.x / res.y;
+
+    uv *= 2.0;
+
     uv = curvedSurface(uv, r);
-    if(content) uv *= 0.5 / vec2(WIDTH, HEIGHT);
-    uv = (uv / 2.0) + 0.5;
-    
-    return uv;    
+
+    if (content)
+        uv *= vec2(0.5 / WIDTH, 0.5 / HEIGHT);
+
+    uv = uv * 0.5 + 0.5;
+
+    return uv;
 }
 
 float random(vec2 st) 
