@@ -42,7 +42,8 @@ distro with a style inspired by Copland-OS!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
 ---
 
-I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
+> [!NOTE]
+>I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 <ul>
   <li>https://github.com/4st0lfo1337/RofiConfig</li>
 </ul>
