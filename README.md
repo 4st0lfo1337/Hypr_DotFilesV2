@@ -23,13 +23,16 @@ If you like Lain and Linux as much as I do, check out the [LainOS project](https
 <br><br>
 
 ## Rofi Config
+---
 I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 <ul>
   <li>https://github.com/4st0lfo1337/RofiConfig</li>
 </ul>
 
- 
+ <br><br>
+
 ## Based on these repositories
+---
 <ul>
   <li>https://github.com/Ascaniolamp/Hyprlain</li>
   <li>https://github.com/cynaax/lain-i3wm</li>
@@ -40,8 +43,10 @@ I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
 
 </div>
 
+<br><br>
 
 ## Shaders source
+---
 All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
 <ul>
   <li>https://github.com/hyprwm/Hyprland/issues/1140</li>
@@ -57,6 +62,7 @@ To use the shaders, you need to uncomment the line "damage_tracking = 0" in debu
 <div>
 
 ## Screen shaders
+---
 <br>
 
 <img width="800" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
