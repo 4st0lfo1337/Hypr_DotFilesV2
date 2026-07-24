@@ -1,12 +1,10 @@
 
-
 <div align="center">
 
 <img  width="100" src="https://github.com/user-attachments/assets/8df531d8-a59c-41af-b6fa-a129099b9149" />
 
 </div>
 
-<div>
 
 <br><br>
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp rice, that I use on my daily driver PC,
@@ -14,10 +12,15 @@ With a few color changes and some tweaks to the Hyprland configuration, and othe
 
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://forgejo.lain.rocks/lainOS)  and Hyprlain. 
 
+<br><br>
+
 > [!IMPORTANT]
 > I only use the Super + C and Super + R keybindings because
 > I use three monitors; you don't need to use these keys if you use a single monitor.
+> 
+> *This Hyprland setup is running in CachyOS*
 
+<br><br>
 
 ## Rofi Config
 I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
