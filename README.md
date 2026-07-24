@@ -15,17 +15,10 @@ With a few color changes and some tweaks to the Hyprland configuration, and othe
 If you like Lain and Linux as much as I do, check out the [LainOS project](https://www.reddit.com/r/LainOSdevelopers/) An Arch-based, privacy-focused
 distro with a style inspired by Copland-OS! 
 
-<br><br>
-
-> [!IMPORTANT]
-> I only use the Super + C and Super + R keybindings because
-> I use three monitors; you don't need to use these keys if you use a single monitor.
-> 
-> *This Hyprland setup is running in CachyOS*
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase+(Video))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Showcase+(Video))](https://git.io/typing-svg)
 ---
 
 <div align="center">
@@ -39,7 +32,15 @@ distro with a style inspired by Copland-OS!
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
+> [!IMPORTANT]
+> I only use the Super + C and Super + R keybindings because
+> I use three monitors; you don't need to use these keys if you use a single monitor.
+> 
+> *This Hyprland setup is running in CachyOS*
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Rofi+config)](https://git.io/typing-svg)
 ---
 
 > [!NOTE]
@@ -50,7 +51,7 @@ distro with a style inspired by Copland-OS!
 
  <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Based+on+these+repositories)](https://git.io/typing-svg)
 ---
 
 <ul>
@@ -65,7 +66,7 @@ distro with a style inspired by Copland-OS!
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=999999&color=CE7688&vCenter=true&width=700&lines=╰─❮+Shaders+source)](https://git.io/typing-svg)
 ---
 
 All off the shaders that im using on the rice are not mine, are just some random shaders that i found on reddit or github.
