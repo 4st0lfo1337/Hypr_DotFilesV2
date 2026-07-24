@@ -16,8 +16,7 @@ If you like Lain and Linux as much as I do, check out the [LainOS project](https
 
 > [!IMPORTANT]
 > I only use the Super + C and Super + R keybindings because
->  I use three monitors; you don't need to use these keys if you use a single monitor.
-
+> I use three monitors; you don't need to use these keys if you use a single monitor.
 
 
 ## Rofi Config
