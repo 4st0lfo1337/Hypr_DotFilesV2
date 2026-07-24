@@ -9,10 +9,16 @@
 <div>
 
 <br><br>
-This config is just my version of the Hyprlain by Ascaniolamp rice (https://github.com/Ascaniolamp/Hyprlain), that I use on my daily driver PC,
+This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp rice, that I use on my daily driver PC,
 With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
 
-If you like Lain and Linux as much as I do, check out the LainOS project (https://forgejo.lain.rocks/lainOS) and Hyprlain. 
+If you like Lain and Linux as much as I do, check out the [LainOS project](https://forgejo.lain.rocks/lainOS)  and Hyprlain. 
+
+> [!IMPORTANT]
+> I only use the Super + C and Super + R keybindings because
+>  I use three monitors; you don't need to use these keys if you use a single monitor.
+
+
 
 ## Rofi Config
 I have made a repo just for my Rofi Config, also based in the Hyprlain rice.
