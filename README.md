@@ -51,15 +51,15 @@ To use the shaders, you need to uncomment the line "damage_tracking = 0" in debu
 ## Screen shaders
 <br>
 
-<img width="1913" height="1077" alt="Screen Shader 1" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
+<img width="800" src="https://github.com/user-attachments/assets/266eb542-04a8-4db6-9f17-81f92ab16f24" />
 
 <br><br>
 
-<img width="1919" height="1080" alt="Screen Shader 2" src="https://github.com/user-attachments/assets/edfc6710-0571-4d16-b7b2-822cd9567f86" />
+<img width="800" src="https://github.com/user-attachments/assets/edfc6710-0571-4d16-b7b2-822cd9567f86" />
 
 <br><br>
 
-<img width="1919" height="1074" alt="Screen Shader 3" src="https://github.com/user-attachments/assets/d35b4394-c885-4190-b923-cbdbd65ddc2a" />
+<img width="800" src="https://github.com/user-attachments/assets/d35b4394-c885-4190-b923-cbdbd65ddc2a" />
 
 </div>
 
