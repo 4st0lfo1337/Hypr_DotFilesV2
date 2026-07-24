@@ -79,6 +79,10 @@ All off the shaders that im using on the rice are not mine, are just some random
 
 <br><br>
 ---
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
 
 <div align="center">
     <img width="500" src="https://github.com/user-attachments/assets/084dc8c6-b667-42f4-8e18-a275e8559c17" />
