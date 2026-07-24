@@ -10,7 +10,7 @@
 This config is just my version of the [Hyprlain](https://github.com/Ascaniolamp/Hyprlain) by Ascaniolamp rice, that I use on my daily driver PC,
 With a few color changes and some tweaks to the Hyprland configuration, and other things to fit my style... 
 
-If you like Lain and Linux as much as I do, check out the [LainOS project](https://forgejo.lain.rocks/lainOS)  and Hyprlain. 
+If you like Lain and Linux as much as I do, check out the [LainOS project](https://forgejo.lain.rocks/lainOS)  and Hyprlain! 
 
 <br><br>
 
