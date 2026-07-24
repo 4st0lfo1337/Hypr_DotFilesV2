@@ -81,7 +81,7 @@ All off the shaders that im using on the rice are not mine, are just some random
 ---
 <div align="right">
   <br>
-  <a href="-Alice"><kbd> <br> 🡅 <br> </kbd></a>
+  <a href="#-Alice"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
 <div align="center">
